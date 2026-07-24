@@ -2,11 +2,11 @@
 
 
 <p align="center">
-```
+
 `<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=KickoNelson&fontSize=48&fontColor=ffffff&color=0:000000,50:6a00ff,100:00d4ff"/>
 
 </p>
-```
+
 <p align="center">
 ```
 `<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=Future+Developer;HTML+%7C+CSS+%7C+JavaScript+%7C+Python;Always+Learning;Welcome+to+my+GitHub"/>
