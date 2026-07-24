@@ -19,7 +19,7 @@
 ## 🛠️ Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,python,github,vscode" />
+<img src="https://skillicons.dev/icons?i=html,css,js,python,github,vscode,discord,tiktok" />
 </p>
 
 ---
