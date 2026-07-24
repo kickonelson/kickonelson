@@ -1,6 +1,6 @@
 # KickoNelson
 
-```{=html}
+
 <p align="center">
 ```
 `<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=KickoNelson&fontSize=48&fontColor=ffffff&color=0:000000,50:6a00ff,100:00d4ff"/>
