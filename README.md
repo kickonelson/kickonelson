@@ -3,15 +3,14 @@
 ```{=html}
 <p align="center">
 ```
-`<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=KickoNelson&fontSize=48&fontColor=ffffff&color=0:000000,50:6a00ff,100:00d4ff"/>`{=html}
-```{=html}
+`<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=KickoNelson&fontSize=48&fontColor=ffffff&color=0:000000,50:6a00ff,100:00d4ff"/>
+
 </p>
 ```
-```{=html}
 <p align="center">
 ```
-`<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=Future+Developer;HTML+%7C+CSS+%7C+JavaScript+%7C+Python;Always+Learning;Welcome+to+my+GitHub"/>`{=html}
-```{=html}
+`<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=Future+Developer;HTML+%7C+CSS+%7C+JavaScript+%7C+Python;Always+Learning;Welcome+to+my+GitHub"/>
+
 </p>
 ```
 ## About
@@ -23,57 +22,57 @@
 
 ## Tech Stack
 
-```{=html}
+
 <p align="center">
 ```
-`<img src="https://skillicons.dev/icons?i=html,css,js,python,java,c,cpp,nodejs,git,github,vscode,linux"/>`{=html}
-```{=html}
+`<img src="https://skillicons.dev/icons?i=html,css,js,python,java,c,cpp,nodejs,git,github,vscode,linux"/>
+
 </p>
 ```
 ## GitHub Stats
 
-```{=html}
+
 <p align="center">
 ```
-`<img height="165" src="https://github-readme-stats.vercel.app/api?username=kickonelson&show_icons=true&theme=tokyonight&hide_border=true"/>`{=html}
-`<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kickonelson&layout=compact&theme=tokyonight&hide_border=true"/>`{=html}
-```{=html}
+`<img height="165" src="https://github-readme-stats.vercel.app/api?username=kickonelson&show_icons=true&theme=tokyonight&hide_border=true"/>
+`<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kickonelson&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </p>
 ```
 ## Streak
 
-```{=html}
+
 <p align="center">
 ```
-`<img src="https://streak-stats.demolab.com?user=kickonelson&theme=tokyonight&hide_border=true"/>`{=html}
-```{=html}
+`<img src="https://streak-stats.demolab.com?user=kickonelson&theme=tokyonight&hide_border=true"/>
+
 </p>
 ```
 ## Activity Graph
 
-```{=html}
+
 <p align="center">
 ```
-`<img src="https://github-readme-activity-graph.vercel.app/graph?username=kickonelson&theme=tokyo-night"/>`{=html}
-```{=html}
+`<img src="https://github-readme-activity-graph.vercel.app/graph?username=kickonelson&theme=tokyo-night"/>
+
 </p>
 ```
 ## Trophy
 
-```{=html}
+
 <p align="center">
 ```
-`<img src="https://github-profile-trophy.vercel.app/?username=kickonelson&theme=tokyonight&no-frame=true&row=2&column=4"/>`{=html}
-```{=html}
+`<img src="https://github-profile-trophy.vercel.app/?username=kickonelson&theme=tokyonight&no-frame=true&row=2&column=4"/>
+
 </p>
 ```
 ## Visitor
 
-```{=html}
+
 <p align="center">
 ```
-`<img src="https://komarev.com/ghpvc/?username=kickonelson&style=for-the-badge&color=6A5ACD"/>`{=html}
-```{=html}
+`<img src="https://komarev.com/ghpvc/?username=kickonelson&style=for-the-badge&color=6A5ACD"/>
+
 </p>
 ```
 ## Snake
