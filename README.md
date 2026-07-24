@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Hi, I'm Kicko
 
-<!--
-**kickonelson/kickonelson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎵 Music Lover  
+💻 Learning HTML, CSS, JavaScript & Python  
+🎮 Gamer  
+🇮🇩 Indonesia
 
-Here are some ideas to get you started:
+## 🚀 Currently Learning
+- HTML
+- CSS
+- JavaScript
+- Python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Connect with me
+- GitHub: https://github.com/kickonelson
+
+> "Keep learning, keep creating."
